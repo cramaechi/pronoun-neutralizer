@@ -131,5 +131,5 @@ void neutralizePronouns(string& s)
 
 void output(string& s)
 {
-    cout<<s<<endl;
+    cout<<"Gender neutralized sentence: "<< s<<endl;
 }
